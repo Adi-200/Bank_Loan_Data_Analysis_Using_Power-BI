@@ -4,7 +4,7 @@ The Bank Loan Portfolio Analysis project aims to provide comprehensive insights 
 
 ## Link
 
-[POWER BI PDF File](https://docs.google.com/spreadsheets/d/1_w81qfcc7wD-U7jsomTp0GI_hQt_4hFl/edit#gid=1403720255)
+[POWER BI PDF File](https://drive.google.com/file/d/1P4eqlbYY5rKENU9N45IaPBWPIvNM-N9v/view?usp=drive_link)
 
 
 
